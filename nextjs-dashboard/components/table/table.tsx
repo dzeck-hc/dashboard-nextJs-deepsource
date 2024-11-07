@@ -51,7 +51,7 @@ export const TableWrapper = () => {
           noMargin
           align="center"
           rowsPerPage={8}
-          onPageChange={(page) => console.log({ page })}
+          //onPageChange={(page) => console.log({ page })}
         />
       </Table>
     </Box>

@@ -11,7 +11,6 @@ interface Props {
 
 export const CollapseItems = ({ icon, items, title }: Props) => {
   const [open, setOpen] = useState(false);
-
   const handleToggle = () => setOpen(!open);
   return (
     <Flex
