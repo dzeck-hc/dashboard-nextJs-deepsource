@@ -12,7 +12,7 @@ interface Props {
 }
 
 export const RenderCell = ({ user, columnKey }: Props) => {
-  // @ts-ignore
+  // @ts-expect-error
   const cellValue = user[columnKey];
   switch (columnKey) {
     case "name":
@@ -38,7 +38,7 @@ export const RenderCell = ({ user, columnKey }: Props) => {
       );
     case "status":
       return (
-        // @ts-ignore
+        // @ts-expect-error
         <StyledBadge type={String(user.status)}>{cellValue}</StyledBadge>
       );
 

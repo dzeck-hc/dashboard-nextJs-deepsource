@@ -74,7 +74,7 @@ const options: Props["options"] = {
       colors: ["red"],
     },
   },
-  // @ts-ignore
+  // @ts-expect-error
   markers: false,
 };
 
