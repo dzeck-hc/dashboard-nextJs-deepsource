@@ -27,7 +27,9 @@ export const SidebarWrapper = () => {
   const { collapsed, setCollapsed } = useSidebarContext();
 
   return (
-    <Box as="aside" css={{
+    <Box
+      as="aside"
+      css={{
         height: "100vh",
         zIndex: 202,
         position: "sticky",
