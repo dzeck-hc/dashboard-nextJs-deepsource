@@ -80,15 +80,15 @@ const options: Props["options"] = {
 
 export const Steam = () => {
   return (
-      <Box
-        css={{
-          width: "100%",
-          zIndex: 5,
-        }}
-      >
-        <div id="chart">
-          <Chart options={options} series={state} type="area" height={425} />
-        </div>
-      </Box>
+    <Box
+      css={{
+        width: "100%",
+        zIndex: 5,
+      }}
+    >
+      <div id="chart">
+        <Chart options={options} series={state} type="area" height={425} />
+      </div>
+    </Box>
   );
 };
