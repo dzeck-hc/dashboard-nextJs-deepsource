@@ -119,10 +119,7 @@ export const SidebarWrapper = () => {
               <FilterIcon />
             </Tooltip>
             <Tooltip content={"Profile"} rounded color="primary">
-              <Avatar
-                src="https://placebeard.it/150/notag"
-                size={"sm"}
-              />
+              <Avatar src="https://placebeard.it/150/notag" size={"sm"} />
             </Tooltip>
           </Sidebar.Footer>
         </Flex>
