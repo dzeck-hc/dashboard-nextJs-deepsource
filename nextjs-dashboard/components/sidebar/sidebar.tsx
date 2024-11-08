@@ -120,7 +120,7 @@ export const SidebarWrapper = () => {
             </Tooltip>
             <Tooltip content={"Profile"} rounded color="primary">
               <Avatar
-                src="https://i.pravatar.cc/150?u=a042581f4e29026704d"
+                src="https://placebeard.it/150/notag"
                 size={"sm"}
               />
             </Tooltip>

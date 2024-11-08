@@ -31,7 +31,7 @@ export const CardTransactions = () => {
             <Avatar
               size="lg"
               pointer
-              src="https://i.pravatar.cc/150?u=a042581f4e29026024d"
+              src="https://placebeard.it/150/notag"
               bordered
               color="gradient"
               stacked
@@ -51,7 +51,7 @@ export const CardTransactions = () => {
             <Avatar
               size="lg"
               pointer
-              src="https://i.pravatar.cc/150?u=a042581f4e29026024d"
+              src="https://placebeard.it/150/notag"
               bordered
               color="gradient"
               stacked
@@ -70,7 +70,7 @@ export const CardTransactions = () => {
             <Avatar
               size="lg"
               pointer
-              src="https://i.pravatar.cc/150?u=a042581f4e29026024d"
+              src="https://placebeard.it/150/notag"
               bordered
               color="gradient"
               stacked
@@ -89,7 +89,7 @@ export const CardTransactions = () => {
             <Avatar
               size="lg"
               pointer
-              src="https://i.pravatar.cc/150?u=a042581f4e29026024d"
+              src="https://placebeard.it/150/notag"
               bordered
               color="gradient"
               stacked
@@ -108,7 +108,7 @@ export const CardTransactions = () => {
             <Avatar
               size="lg"
               pointer
-              src="https://i.pravatar.cc/150?u=a042581f4e29026024d"
+              src="https://placebeard.it/150/notag"
               bordered
               color="gradient"
               stacked
@@ -127,7 +127,7 @@ export const CardTransactions = () => {
             <Avatar
               size="lg"
               pointer
-              src="https://i.pravatar.cc/150?u=a042581f4e29026024d"
+              src="https://placebeard.it/150/notag"
               bordered
               color="gradient"
               stacked
